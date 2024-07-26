@@ -1,3 +1,3 @@
-module github.com/paran0iaa/Actions
+module main
 
 go 1.21.6
